@@ -1,0 +1,2 @@
+Soon, I will make CoWGAN, which is CoGAN with WGAN.
+The goal is to have the speed of CoGAN and the stability of WGAN.
