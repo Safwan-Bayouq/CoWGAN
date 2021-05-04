@@ -1,0 +1,1 @@
+I used Decision Tree, Linear Support Vector, Random Forest, and Extreme Gradient Boost algorithms to test if the new generated data can improve the accuracy, precision, recall, and f1 scores.
