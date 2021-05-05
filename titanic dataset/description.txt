@@ -1,0 +1,3 @@
+The first two files you see is the original data.
+
+In the (preprocessed) file, you will find the preprocessed training data set, and in the (for CoWGAN) file, you will find the preprocessed training data set splitted into two data sets, (died and survived).
