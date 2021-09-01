@@ -1,2 +1,1 @@
-Soon, I will make CoWGAN, which is CoGAN with WGAN.
-The goal is to have the speed of CoGAN and the stability of WGAN.
+CoWGAN was made by merging two types of GANs, CoGAN, and WGAN, with two Generators and two Discriminators, the time for the CoWGAN to learn from the data is less than any other type of GAN, also, with the Wasserstein loss equation, the CoWGAN ensures more stable learning.
